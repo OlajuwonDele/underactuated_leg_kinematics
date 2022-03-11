@@ -1,1 +1,1 @@
-# underactuated_leg_kinematics
+Research work for Polytechnique Montréal. Underactuated legged robotics simulations.
